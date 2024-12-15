@@ -1,0 +1,39 @@
+{
+    "personal_information":{
+        "Name":"Harsh Saini",
+        "Professional_title":"Full Stack Developer",
+        "About":"A passionate software developer with 2+ years of experience in building scalable web applications.",
+        "contact_info":{
+            "Email":["harshrsaini21@gmail.com","aakash.09sharma@gmail.com"],
+            "PH_no":[8511739868,9104836747],
+            "Location/city":"Ahmedabad",
+            "Social_links":{
+                "Github":"https://github.com/Harsh-45saini/portfolio",
+                "Linkedin":"https://www.linkedin.com/feed/"
+            }
+        },
+
+        "Skills":{
+            "Programming":["JavaScript","Python"],
+            "Framework":"Nodejs",
+            "Tools":"Git",
+            "Soft_skill":"Communication"
+        },
+
+        "Projects":{
+            "Project Name":  "E-commerce Website.",
+            "Description": "This is the full fledge ecommerce website using mern stack.",
+            "Technologies Used":" Mention the tech stack, like React, Node.js, MongoDB,ExpressJS"
+        },
+
+        "Education":{
+            "Degree": "Bachelor of Technology in Computer Science.",
+            "Institution": "LJ University.",
+            "Year of Completion":"2025."
+        },
+
+        "Availability":"Internship Seeker",
+
+        "Hobbies":"Fitness"
+    }
+}
